@@ -1,0 +1,16 @@
+name: push-hook
+on:
+  push:
+    branches: [ reading ] #master branch의 이벤트에 대해서만 훅 날림
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    if: "contains(github.event.head_commit.message, '📝')" # commit message에 📝 아이콘이 포함된 경우에만 훅 날림
+    steps:
+    - name: curl
+      env:
+        #hook_url: https://hook.dooray.com/services/1387695619080878080/2415136738665337382/81Xs8epCQbyHyTrHRIXxQQ # TEST 용
+        hook_url: https://hook.dooray.com/services/1387695619080878080/2768245954096979957/N6FqbzwAQ7KxaCTS6AseWw
+      run: curl -H "Content-Type:application/json" -X POST -d '{"botName":"100일-독서-봇", "botIconImage":"https://i.ibb.co/cXY9K3L/image4.png", "text":"🎉 ${{github.actor}} pushed! `${{github.event.head_commit.message}}` [➥](${{github.event.head_commit.url}})"}' $hook_url
+      
