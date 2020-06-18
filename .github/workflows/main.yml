@@ -1,12 +1,12 @@
 name: push-hook
 on:
   push:
-    branches: [ reading ] #master branch의 이벤트에 대해서만 훅 날림
+    branches: [ master ] #master branch의 이벤트에 대해서만 훅 날림
 
 jobs:
   send:
     runs-on: ubuntu-latest
-    if: "contains(github.event.head_commit.message, '📝')" # commit message에 📝 아이콘이 포함된 경우에만 훅 날림
+    if: "contains(github.event.head_commit.message, 'log')" # commit message에 📝 아이콘이 포함된 경우에만 훅 날림
     steps:
     - name: curl
       env:
