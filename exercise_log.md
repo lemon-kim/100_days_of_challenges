@@ -13,4 +13,5 @@ FitnessBlender 15min HIIT 난이도 상 - 버피랑 허벅지 높게 뛰는 거 
 https://www.youtube.com/watch?v=0DSrudz6IVY
 하지만 잼써
 아침 청소 (걸레질 포함) 뒷정리 까지 다 해서 50
-
+## 저녁 운동
+러낭. 11.2 km, 6:10 min/km 더웠다. 그리고 8시 경에는 사람이 너무 많았다..
