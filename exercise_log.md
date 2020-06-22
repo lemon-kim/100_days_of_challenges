@@ -15,3 +15,12 @@ https://www.youtube.com/watch?v=0DSrudz6IVY
 아침 청소 (걸레질 포함) 뒷정리 까지 다 해서 50
 ## 저녁 운동
 러낭. 11.2 km, 6:10 min/km 더웠다. 그리고 8시 경에는 사람이 너무 많았다..
+# 20200621
+## 오전 운동
+* fitnessBlender 영상 2개
+## 저녁 운동
+* 러닝 22분 3.94 km 5:46 min/km
+* blogilates 영상 2개
+# 20200622
+## 아침 운동
+* blogilates 20 min 하체 운동
