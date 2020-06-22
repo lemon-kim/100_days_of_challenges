@@ -24,3 +24,7 @@ https://www.youtube.com/watch?v=0DSrudz6IVY
 # 20200622
 ## 아침 운동
 * blogilates 20 min 하체 운동
+## 저녁 운동
+* 러닝 22:57 min 3.88 km 5:55/km 너무 더워....
+* blogilates 10 min 하체 운동
+* blogilates 10 min 하복부 운동
