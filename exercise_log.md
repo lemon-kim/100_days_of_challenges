@@ -28,3 +28,14 @@ https://www.youtube.com/watch?v=0DSrudz6IVY
 * 러닝 22:57 min 3.88 km 5:55/km 너무 더워....
 * blogilates 10 min 하체 운동
 * blogilates 10 min 하복부 운동
+# 20200623
+어제 운동을 열심히 해선지 온몸이 배기고 피곤하다. 시계에 기록된 운동 부하도 너무 높아서 오늘은 쉬고, 요가와 스트레칭을 하길로 했다. 내일은 장기러닝 가야지
+## 오전 운동
+* fitnessblender 가벼운 유산소
+* dopeyoga 빈야사 요가
+## 저녁 운동
+안하고 잤음
+# 20200624
+## 오전 운동
+* fitnessblender 유산소 20min
+* Blogilates 복근 운동 5min
