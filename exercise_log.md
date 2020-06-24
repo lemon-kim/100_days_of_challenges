@@ -39,3 +39,10 @@ https://www.youtube.com/watch?v=0DSrudz6IVY
 ## 오전 운동
 * fitnessblender 유산소 20min
 * Blogilates 복근 운동 5min
+## 저녁 운동
+* 안함. 진짜 오백년만에 게임 (얼리 액세스 사놓고 3달간 안한 겜) 하다보니 정신차려보니 10시 😇
+# 20200625
+## 오전 운동
+* fitnessblender 5min 웜업 유산소
+* Blogilates 10min 다리 운동
+음 강도가 약했다. 움직이긴 하는데 잠이 안 꺤다. 내일은 HIIT 운동 찾아서 해야지!
