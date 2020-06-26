@@ -46,3 +46,5 @@ https://www.youtube.com/watch?v=0DSrudz6IVY
 * fitnessblender 5min 웜업 유산소
 * Blogilates 10min 다리 운동
 음 강도가 약했다. 움직이긴 하는데 잠이 안 꺤다. 내일은 HIIT 운동 찾아서 해야지!
+## 저녁 운동
+러닝 10.85 1:06:04 6:05/km
