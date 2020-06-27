@@ -52,3 +52,6 @@ https://www.youtube.com/watch?v=0DSrudz6IVY
 # 20200626
 ## 오전 운동
 * fitnessBlender HIIT 20min
+# 20200627
+하루종일 운동을 안했다. 아파트 구경한다고 좀 오래 걸은 거 빼고는 안했는데 날이 더워서 10시 반까지 녹아웃... 이제 다시 자야지
+* 서현역 나가서 걷기 1시간 정도
