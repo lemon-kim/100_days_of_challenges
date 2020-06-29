@@ -62,3 +62,12 @@ https://www.youtube.com/watch?v=0DSrudz6IVY
 * 5 :00 기상
 * 4.13 km 러닝. 앞 10분은 잠이 안 깨서 걷고 몸이 좀 달궈지고 나서 뛰어서 40분 정도 걸렸다.
 * 그 뒤 푸시업 30번. 러닝하고 오면 등 근육도 깨서 좀 잘 된다. 
+## 저녁 운동
+* 3.76 km 러닝. 7:37/km 비와서 천천히 달림.
+* Blogilates 새 영상 하나. 덕분에 아직도 다리가 아픔 ㅋㅋ
+
+# 20200630
+## 오전 기상용 운동
+* 4:30 기상
+* fitnessBlender 6min cardio warm up, 15 min HIIT workout
+
