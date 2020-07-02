@@ -70,4 +70,14 @@ https://www.youtube.com/watch?v=0DSrudz6IVY
 ## 오전 기상용 운동
 * 4:30 기상
 * fitnessBlender 6min cardio warm up, 15 min HIIT workout
+# 20200701
+## 오전 기상용 운동
+* 5:30 기상
+* 러닝 3km
+
+# 20200702
+## 오전 운동
+* 4:30 기상
+* 피트니스블렌더 15min bodyweight workout
+* 러닝 4km 6:09/km
 
