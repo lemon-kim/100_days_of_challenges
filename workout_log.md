@@ -161,3 +161,4 @@ https://www.youtube.com/watch?v=0DSrudz6IVY
 * Blogilates 전신 운동 12min
 ## 저녁 운동
 * 러닝 할 수 있으면 
+* https://youtu.be/M2pfvVdk6N0
