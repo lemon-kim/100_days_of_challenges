@@ -602,4 +602,35 @@
 > 사람이라면 오늘은 빨강색이 좋았다가, 내일은 파랑색이 좋을 수 있습니다. 뭐 어떤가요? 소원이 바뀌는 일은 자연스럽습니다. "전에 말씀하시던 것과 다르네요. 세계 일주를 하겠다는 이야기는 거짓말이었나요?" 혹시 누군가 이렇게 비난한다면 대답하세요. "네! 생각이 바뀌었어요." 당신의 생각입니다. 바꾸어도 괜찮아요. 어차피 주위 사람들 중 1/3은 당신을 좋아하고, 1/3은 싫어하고, 1/3은 당신에게 관심이 없답니다. 당신이 원하는 것을 바꾸어도 좋아하는 사람은 여전히 좋아할 것이고, 바꾸지 않아도 싫어하는 사람은 여전히 싫어할 거에요.
 
 > 죽음을 인정하면 편안합니다. 존재의 한계를 인정하면 두려워하지 않을 수 있습니다. 독자님도 만족스러운 인생의 마지막 순간을 그려보세요. 인생 퍼즐의 가장 큰 그림, 완성본입니다.
+# 20200720
+빵꾸남. 줄 야근...
+# 20200721
+정신 없이 보냈다. 그나마 읽은 거라도 정리하자.
+## 아티클 하나 읽은 것.
+https://www.drift.com/dc/the-one-thing-3/
+-   Be careful who you take advice from.
+-   Just because everyone has an opinion, doesn’t mean you should listen.
+-   It takes practice to filter out the wrong people.
+-   Choose your role models wisely.
+-   Role models are different than mentors.
+-   Mentors are the people who are years ahead of you. They have achieved big things.
+-   Role models are the people you interact with daily.
+-   You can keep mentors for years but you should change your role models regularly.
+-   Changing your role models forces you to learn, grow and evolve.
+
+## 오늘의 어피티
+
+* 서울에 이어 수도권 4급 물 서식 곤충 유충 발생 - 샤워 필터 대세.
+	* 생수 
+	* 샤워 필터 : 웹스
+		* 이미 상따 치심
+
+* 반대 매매 : 하락에 베팅하는 것
+> 우리가 곤란에 빠지는 건 모르기 때문이 아니라, 알고 있다는 확신 때문이다. - 영화 빅쇼트
+
+* 아 님들 제발 이건 하지 마세요.
+> 신용 카드를 만들지 마세요
+> 할부를 절대 하지 마세요
+> 내 손에 들어오기 전은 내 돈 아님
+> 한가지만 시작하기.
 
